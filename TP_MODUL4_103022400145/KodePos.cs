@@ -4,6 +4,7 @@ using System.Collections.Generic;
 namespace TP_MODUL4_103022400145
 {
     public class KodePos
+    {
         private static Dictionary<string, string> tabelKodePos = new Dictionary<string, string>()
         {
             {"Batununggal", "40266"}, {"Kujangsari", "40287"},
